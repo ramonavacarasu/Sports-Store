@@ -29,7 +29,7 @@ docker ps
 
 #### Stopping the Container
 
-docker stop <the value in the Container ID column">
+docker stop <the value in the Container ID column>
 
 
 
