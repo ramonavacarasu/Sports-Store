@@ -6,14 +6,16 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 The first step is to download and install the Docker tools on your development machine, which is available from `www.docker.com/products`.
 
-### Preparing the Application
+#### Preparing the Application
 
 The first step is to create a configuration file for NPM that will be used to download the additional packages required by the application 
 for use in the container (I created a file called deploy-package.json in theSportsStore folder).
 
-### Creating the Docker Container
+#### Creating the Docker Container
 
 To define the container, I added a file called Dockerfile (with no extension) to the SportsStore folder 
+
+
 
 
 ## Development server
