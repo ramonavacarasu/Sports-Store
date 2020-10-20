@@ -15,6 +15,21 @@ for use in the container (I created a file called deploy-package.json in theSpor
 
 To define the container, I added a file called Dockerfile (with no extension) to the SportsStore folder 
 
+#### Building the Docker Image
+
+docker build . -t sportsstore -f Dockerfile
+
+#### Starting the Docker Container
+
+docker run -p 80:80 -p 443:443 sportsstore
+
+#### Listing the Containers
+
+docker ps
+
+#### Stopping the Container
+
+docker stop <the value in the Container ID column">
 
 
 
