@@ -1,4 +1,5 @@
-# SportsStore
+# SportsStore 
+#### Examples of code are taken from the textbook Pro Angular 9. Author: Adam Freeman 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1.
 
